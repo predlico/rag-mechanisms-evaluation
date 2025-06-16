@@ -54,7 +54,5 @@ If you make use of this repository in your research, please cite our thesis and 
   title        = {{A Comparative Study of Naïve RAG and GraphRAG: Evaluation Insights and Performance-Cost Trade-Offs in Retrieval Augmented Generation}},
   school       = {Linköping University, Department of Computer and Information Science},
   year         = {2025},
-  type         = {Master’s thesis},
-  number       = {LIU-IDA/LITH-EX-A–2025/088–SE},
-  url          = {http://www.ep.liu.se/2025/088/},
+  type         = {Master’s thesis}
 }
