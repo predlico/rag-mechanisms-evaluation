@@ -46,7 +46,7 @@ Each dataset was used under its original license and with appreciation for the e
 
 ## Citation
 
-If you make use of this repository in your research, please cite our thesis and the two datasets as follows:
+If you make use of this repository in your research, please cite our thesis as follows:
 
 ```bibtex
 @mastersthesis{hoffmann2025comparative,
